@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="libs/ApiFace.jar"/>
+	<classpathentry kind="lib" path="libs/javacpp-1.5.1-sources.jar"/>
+	<classpathentry kind="lib" path="libs/javacpp-1.5.1.jar"/>
+	<classpathentry kind="lib" path="libs/javacv-1.5.1-sources.jar"/>
+	<classpathentry kind="lib" path="libs/javacv-1.5.1.jar"/>
+	<classpathentry kind="lib" path="libs/openblas-0.3.6-1.5.1-android-arm.jar"/>
+	<classpathentry kind="lib" path="libs/openblas-0.3.6-1.5.1-android-arm64.jar"/>
+	<classpathentry kind="lib" path="libs/openblas-0.3.6-1.5.1-android-x86_64.jar"/>
+	<classpathentry kind="lib" path="libs/openblas-0.3.6-1.5.1-android-x86.jar"/>
+	<classpathentry kind="lib" path="libs/openblas-0.3.6-1.5.1-sources.jar"/>
+	<classpathentry kind="lib" path="libs/openblas-0.3.6-1.5.1-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="libs/openblas-0.3.6-1.5.1-windows-x86.jar"/>
+	<classpathentry kind="lib" path="libs/openblas-0.3.6-1.5.1.jar"/>
+	<classpathentry kind="lib" path="libs/openblas-platform-0.3.6-1.5.1-sources.jar"/>
+	<classpathentry kind="lib" path="libs/openblas-platform-0.3.6-1.5.1.jar"/>
+	<classpathentry kind="lib" path="libs/opencv-4.1.0-1.5.1-android-arm.jar"/>
+	<classpathentry kind="lib" path="libs/opencv-4.1.0-1.5.1-android-arm64.jar"/>
+	<classpathentry kind="lib" path="libs/opencv-4.1.0-1.5.1-android-x86_64.jar"/>
+	<classpathentry kind="lib" path="libs/opencv-4.1.0-1.5.1-android-x86.jar"/>
+	<classpathentry kind="lib" path="libs/opencv-4.1.0-1.5.1-windows-x86_64-gpu.jar"/>
+	<classpathentry kind="lib" path="libs/opencv-4.1.0-1.5.1-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="libs/opencv-4.1.0-1.5.1-windows-x86.jar"/>
+	<classpathentry kind="lib" path="libs/opencv-4.1.0-1.5.1.jar"/>
+	<classpathentry kind="lib" path="libs/opencv-platform-4.1.0-1.5.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
