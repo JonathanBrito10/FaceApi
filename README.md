@@ -1,2 +1,2 @@
 # ReconnhecimentoFacialApi
- Api que faz o reconhecimento Facial
+ Api que faz o reconhecimento Facial!
